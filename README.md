@@ -42,17 +42,6 @@ Edit
 
 ---
 
-📊 Output (Screenshots)
-🔹 Dashboard Home
-
-
-🔹 Candidate Screening
-
-
-🔹 Shortlist Export
-
-
----
 ## ⚙️ Installation
 
 1. **Clone repo & setup venv**
@@ -87,20 +76,19 @@ Edit
 streamlit run frontend/app.py
 Open browser at http://localhost:8501
 
-📊 Output
-Ranks resumes against the JD (0–100%)
+📊 Output (Screenshots)
 
-Displays each candidate with:
+🔹 Dashboard Home
 
-Name & File
 
-Match %
+🔹 Candidate Screening
 
-✅ Matched Skills (green)
 
-❌ Missing Skills (red)
+🔹 Shortlist Export
 
-Shortlisted candidates can be downloaded as CSV
+
+
+📌 Place screenshots in a folder named screenshots/ in your repo.
 
 🔮 Future Improvements
 Use transformer embeddings (e.g. BERT) for deeper semantic match
@@ -109,4 +97,4 @@ Add charts & analytics (leaderboard of top candidates)
 
 Integrate with ATS / HR platforms
 
-Fine-tune a custom Resume → JD relevance mode
+Fine-tune a custom Resume → JD relevance model
