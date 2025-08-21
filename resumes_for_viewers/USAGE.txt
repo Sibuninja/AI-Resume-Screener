@@ -1,0 +1,6 @@
+
+This folder is for viewers to upload their resumes.
+
+- Please add your resume as a PDF or DOCX file.
+- Keep file names simple and readable (e.g., John_Doe_Resume.pdf).
+- Do not delete other resumes in this folder.
