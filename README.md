@@ -79,13 +79,13 @@ Open browser at http://localhost:8501
 📊 Output (Screenshots)
 
 🔹 Dashboard Home
-
+![Dashboard](screenshots/Dashboard.png)
 
 🔹 Candidate Screening
-
+![Screening Results](screenshots/CandidateShortlist.png)
 
 🔹 Shortlist Export
-
+![CSV Export](screenshots/WholeUserInterface.png)
 
 
 📌 Place screenshots in a folder named screenshots/ in your repo.
