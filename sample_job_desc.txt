@@ -1,0 +1,40 @@
+Job Description – Web Developer
+
+Location: Gurugram, Haryana (Hybrid)
+Experience: 0–2 years
+
+About the Role
+
+We are seeking a passionate Web Developer to join our growing team. The ideal candidate should have experience in building responsive web applications and working with modern front-end and back-end technologies.
+
+Key Responsibilities
+
+Develop and maintain responsive websites and web applications using modern frameworks.
+
+Build scalable back-end services and integrate them with REST/GraphQL APIs.
+
+Work with databases (SQL/NoSQL) for data-driven applications.
+
+Collaborate with designers, product managers, and other engineers in an Agile environment.
+
+Write clean, maintainable, and well-documented code.
+
+Required Skills
+
+Proficiency in HTML, CSS, JavaScript.
+
+Experience with React.js (or similar frameworks like Angular/Vue).
+
+Knowledge of Node.js, Express, and REST APIs.
+
+Understanding of MongoDB / SQL databases.
+
+Familiarity with Git, Docker, and cloud platforms (AWS/Azure/GCP).
+
+Nice-to-Have
+
+Exposure to Django/Flask for back-end development.
+
+Experience with GraphQL APIs.
+
+Basic knowledge of CI/CD pipelines and containerization.
